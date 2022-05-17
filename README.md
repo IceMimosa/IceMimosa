@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😶 表情修复中...
 
-Now working on [bitlap](https://github.com/bitlap/bitlap) OLAP Engine.
+Now working on [bitlap](https://github.com/bitlap) OLAP Engine.
 
 <!-- My GitHub stats -->
 <!-- <p align="left">
